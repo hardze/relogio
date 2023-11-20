@@ -75,4 +75,10 @@ img{
     height: 3%;
 }
 
-/***Feito por Larissa V. Kich***/
+.voltar{
+    max-width: 80px;
+    max-height: 80px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+  }
